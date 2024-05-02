@@ -22,7 +22,7 @@ public class BubbleSort {
     }
 
 	public static void main(String[] args) {
-		int arr[] = {2,4,8,1,9,100,6,4,3,9};
+		int arr[] = {2,4,8,1,9,100,6,4,3,9,300,777,102,443,1212,30291,32,43,234,4,2323,342,233,44};
 		System.out.println(Arrays.toString(bubbleSort(arr)));
 	}
 
